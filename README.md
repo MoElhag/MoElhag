@@ -1,18 +1,22 @@
+🚀 Hello World! I'm @MoElhag – Cybersecurity & Data Enthusiast!
+I'm a passionate programmer who thrives on solving problems and building secure, functional applications. I focus on the critical intersection of Cybersecurity and Data Analysis.
 
-Hello World! I'm @MoElhag!
+✨ Project Spotlight
+The Spinfund App: I co-developed this super cool savings application! Collaborating on Spinfund was a fantastic opportunity to bring a real-world financial management tool to life and practice secure coding principles. 🤝💰
 
-.Cybersecurity & Development: I'm obsessed with building secure, functional apps! 
+🛠️ Technical Toolkit
+Core Languages: Python, C++, C, SQL, and HTML.
+Data & Visualization: Proficient with Tableau and using Python libraries (like Pandas) for data analysis.
+System & Debugging: Experienced with critical system tools, including the GDB debugger and Valgrind for memory and system analysis.
+Development Workflow: Efficient coding practices using VS Code and utilizing Canva for design and presentation needs.
 
-.The Spinfund App: Check out my savings application—proof that I can turn ideas into reality! 
+🌱 What I'm Learning Now
+I'm currently pushing my skills in system-level development by mastering C/C++ Data Structures and advanced debugging techniques using tools like GDB and Valgrind. I'm also actively exploring tools and practices in network security.
 
-Skill Power-Up: I'm currently mastering C/C++ Data Structures and debugging—leveling up my low-level game!
+🤝 Let's Connect!
+I'm actively seeking collaborations on projects involving security-focused Python development, C/C++ systems, or interesting data analysis challenges! Let's build something epic!
 
-Catch Me Here: Slide into my inbox! mo12elhag12@gmail.com
+📫 How to reach me: mo12elhag12@gmail.com 
 
-Fun Fact: When I'm not coding, I'm scoring goals (soccer!) or planning my next adventure! 
-
-
-<!---
-MoElhag/MoElhag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚽ Quick Fun Facts
+When I'm not coding, you can find me enjoying a good soccer match or planning my next travel adventure! ✈️

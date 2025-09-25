@@ -7,9 +7,9 @@ Hello World! I'm @MoElhag!
 
 Skill Power-Up: I'm currently mastering C/C++ Data Structures and debugging—leveling up my low-level game!
 
-Catch Me Here: Slide into my inbox! 📫 mo12elhag12@gmail.com
+Catch Me Here: Slide into my inbox! mo12elhag12@gmail.com
 
-Fun Fact: When I'm not coding, I'm scoring goals (soccer!) or planning my next adventure! ✈️⚽
+Fun Fact: When I'm not coding, I'm scoring goals (soccer!) or planning my next adventure! 
 
 
 <!---

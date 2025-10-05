@@ -16,7 +16,7 @@ I'm currently pushing my skills in system-level development by mastering C/C++ D
 🤝 Let's Connect!
 I'm actively seeking collaborations on projects involving security-focused Python development, C/C++ systems, or interesting data analysis challenges! Let's build something epic!
 
-📫 How to reach me: mo12elhag12@gmail.com 
+📫 How to reach me: mohammed.osama.elhag@gmail.com
 
 ⚽ Quick Fun Facts
 When I'm not coding, you can find me enjoying a good soccer match or planning my next travel adventure! ✈️
